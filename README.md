@@ -1,8 +1,11 @@
 # e-robotocat
 Example of e-craft LED pop-up card with GitHub's robotocat design.
 
-![E-Robotocat!](https://github.com/HelloTechie/e-robotocat/blob/master/images/e-robotocatdark.jpg)
+![E-Robotocat in the dark!](https://github.com/HelloTechie/e-robotocat/blob/master/images/e-robotocatdark.jpg)
+*E-Robotocat in the dark!*
 
+![E-Robotocat in the light!](https://github.com/HelloTechie/e-robotocat/blob/master/images/e-robotocatlight.jpg)
+*E-Robotocat in daylight!*
 
 ## Credits
 
